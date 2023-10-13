@@ -1,0 +1,16 @@
+Mon Oct 12 10:45:37 BST 2020 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Oct 12 10:45:37 BST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0175-1c33-7ab6-000023d0dd92 
+on database directory X:\My Documents\NetBeansProjects\Casinoting\Casino\Casino\PlayersDatabase\PlayersDatabase with class loader sun.misc.Launcher$AppClassLoader@266474c2 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_161/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Program Files\Java\jdk1.8.0_161\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=X:\My Documents\NetBeansProjects\Casinoting\Casino\Casino\PlayersDatabase
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Oct 12 10:58:17 BST 2020: Shutting down Derby engine
