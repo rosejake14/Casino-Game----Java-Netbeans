@@ -22,7 +22,7 @@ For development & testing purposes:
 
 
 ## Built With
-- [Netbeans]([https://www.unrealengine.com/en-US](https://netbeans.apache.org/)) - Used IDE.
+- [Netbeans](https://netbeans.apache.org/) - Used IDE.
 
 ## Authors
 - Jake Rose - Programmer
