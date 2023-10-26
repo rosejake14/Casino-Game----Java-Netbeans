@@ -2,7 +2,7 @@
 End of year Project making a Casino game in NetBeans Java
 
 ## Additional Information
-In this project, I showcased my skills in Java using OOP, writing to external files and general Java syntax and logic. This was a final project from Sixth Form. 
+In this project, I showcased my skills in Java using OOP, SQL, writing to external files and general Java syntax and logic. This was a final project from Sixth Form. 
 
 ## Getting Started
 Below are instructions on downloading and running the game for Java. 
